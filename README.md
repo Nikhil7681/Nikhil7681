@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Nikhil
 
-<!--
-**Nikhil7681/Nikhil7681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Aspiring Data Analyst/Scientist 
+📊 I turn messy data into clean insights (and sometimes into dashboards that look expensive 😄)
 
-Here are some ideas to get you started:
+### What I’m working on 🚀
+- Building real-world analytics projects (EDA + dashboards + SQL case studies)
+- Improving storytelling with data
+- Learning ML basics & GenAI tools for analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Data Motto 😄
+> “I don’t guess. I query.”
+
+📌 Check out my projects below — feedback is always welcome!
+
